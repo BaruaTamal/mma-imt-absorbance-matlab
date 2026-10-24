@@ -49,7 +49,7 @@ The simulation data are not included in this repository.
 
 ## Requirements
 
-MATLAB (tested on release: R2020a, fill in). No additional toolboxes are needed.
+MATLAB (tested on release: R2020a). No additional toolboxes are needed.
 
 ## References
 
