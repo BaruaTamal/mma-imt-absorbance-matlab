@@ -18,7 +18,7 @@ $$Z = Z_0 Z_n, \qquad \Gamma = \frac{Z - Z_0}{Z + Z_0}, \qquad A = 1 - |\Gamma|^
 
 ## Input format
 
-A table exported from CST with one row per frequency point and these column headers:
+A table exported from CST as an Excel File (.xls) with one row per frequency point and these column headers:
 
 | Column   | Description                      |
 |----------|----------------------------------|
